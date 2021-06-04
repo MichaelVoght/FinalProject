@@ -1,0 +1,35 @@
+.team .header {
+  color: #f4b834;
+  text-align: center;
+  margin-top: 0.25em;
+}
+
+.team .container {
+  border: 0.25em solid #f4b834;
+  border-radius: 0.5em;
+  min-height: 100%;
+}
+
+.team .character {
+  text-align: center;
+  position: relative;
+}
+
+.team .character:nth-child(odd) {
+  padding-top: 1.5em;
+}
+
+.team img {
+  max-width: 100%;
+}
+
+.team .name {
+  color: #ccc;
+}
+
+.character:nth-child(odd) .name {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  left: 0px;
+}

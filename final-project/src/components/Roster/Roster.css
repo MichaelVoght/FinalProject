@@ -1,0 +1,13 @@
+.roster .header {
+  color: #f4b834;
+  text-align: center;
+}
+
+.roster .container {
+  border: 0.25em solid #f4b834;
+  border-radius: 0.5em;
+}
+
+.roster img {
+  max-width: 100%;
+}

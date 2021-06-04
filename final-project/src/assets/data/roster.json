@@ -1,0 +1,364 @@
+{
+    "data": [
+        {
+            "name": "Beast",
+            "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_Beast_ce022c35.png",
+            "abilityKit": {
+                "basic": {
+                    "name": "Dignified Strikes",
+                    "levels" : [
+                        "Attack primary target for 250% damage and adjacent targets for 200% damage + flip 1 positive effect to a negative effect on each target.\nWhen this character performs a Counterattack or Assist, they flip 2 positive effects to negative effects on each target."
+                    ]
+                },
+                "special": {
+                    "name": "Volatile Experiment",
+                    "levels" : [
+                         "Clear 2 negative effects from self and all ASTONISHING X-MEN allies.\nHeal the 2 most injured allies for 20% of this character's Max Health.\nAttack all enemies for 300% damage."
+                    ]
+                },
+                "ultimate": {
+                    "name": "Mutant Enhancement",
+                    "levels" : [
+                         "Apply Offense Up to self and all BLASTER, BRAWLER, and UNCANNY or ASTONISHING X-MEN allies.\nApply Defense Up to self and all PROTECTOR, CONTROLLER, and UNCANNY or ASTONISHING X-MEN allies.\nApply Speed Up and generate Ability Energy for self and all Support and UNCANNY or ASTONISHING X-MEN allies.\nApply Regeneration to self and all MUTANT allies."
+                    ]
+                },
+                "passive": {
+                    "name": "Stars and Garters",
+                    "levels" : [
+                         "On Turn, apply Regeneration to the most injured ally. If that ally is an X-MEN, heal that ally for 15% of this character's Max Health. If that ally is an ASTONISHING X-MEN heal again for 20% of this character's Max Health.\nGain +20% Resistance. X-MEN allies gain +20% Resistance.\nIf this character has 3 or more UNCANNY X-MEN allies at the start of a battle, the first ally death does not count towards the loss of a Medal in CAMPAIGNS and CHALLENGES."
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Bishop",
+            "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_Bishop_43998bed.png",
+            "abilityKit": {
+                "basic": {
+                    "name": "Beam Shot",
+                    "levels" : [
+                         "Clear Counter on primary target. Attack primary target for 270% damage. Then gain +1 Counter, up to maximum of 4.\nThis attack cannot be counterattacked."
+                    ]
+                },
+                "special": {
+                    "name": "Retaliation Laser",
+                    "levels" : [
+                         "Attack primary target for 300% damage.\nIf Jubilee is an ally:\n> Gain Offense Up.\n> Attack primary target for 400% damage, instead.\n> Apply Offense Up + Defense Up to a Jubilee ally.\n> This attack is unavoidable and always Crits."
+                    ]
+                },
+                "ultimate": {
+                    "name": "Blast From the Past",
+                    "levels" : [
+                         "Attack primary and adjacent targets for 270% damage.\nIf Charged attack for 540%, instead. Then remove Charged."
+                    ]
+                },
+                "passive": {
+                    "name": "Energy Redirection",
+                    "levels" : [
+                         "On spawn, if Charged, gain Regeneration and clear Charged. On spawn, gain Taunt + Defense Up.\nOn attacked, gain Charged + fill Speed Bar by 30%, then clear Taunt.\nAt the end of this character's turn, if this character's Health is greater than 80% and he is not Charged, gain 1 Taunt and +1 Defense Up, up to a max of 3.\nWhile this character has Taunt, gain +20% Damage Reduction. Gain +100% chance to Counterattack.\nIn RAIDS, when an ASTONISHING X-MEN ally drops below 50% Health, gain Taunt + Defense Up.\nIn RAIDS, while this character has Offense Up, gain +20% Damage."
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Colossus",
+            "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_Colossus_07a6a326.png",
+            "abilityKit": {
+                "basic": {
+                    "name": "Ringdinger",
+                    "levels" : [
+                         "Attack primary target for 340% damage and apply Offense Down for 2 turns."
+                    ]
+                },
+                "special": {
+                    "name": "Altruism",
+                    "levels" : [
+                         "Gain Taunt. Gain 2 Counter. Apply 2 Deflect to Self and X-MEN Allies. Apply Deflect to all other allies."
+                    ]
+                },
+                "ultimate": {
+                    "name": "Enduring Protection",
+                    "levels" : [
+                         "Increase duration of positive effects on self by +3, up to a maximum of 5.\nGain 2 Deathproof.\nGain +2 Charged, up to a maximum of 5."
+                    ]
+                },
+                "passive": {
+                    "name": "Steel Form",
+                    "levels" : [
+                         "On Spawn, if Charged, generate 1 Ability Energy for self. Then clear Charged.\nOn Spawn, if Phoenix is an ally:\n> Gain Defense Up for 2 turns\n> Apply Defense Up to all UNCANNY X-MEN allies\nWhen a negative effect is applied to an X-MEN ally, gain +1 Charged, up to a maximum of 5. While Charged, when attacked, attack that enemy for 100% damage +10% damage per Charged.\nWhen an UNCANNY X-MEN ally drops below 50% Max Health, gain +1 Taunt, up to a maximum of 2.\nWhile in Defense Up, gain +1,000% Resistance.\nGain +15% Max Health. UNCANNY X-MEN allies gain +15% Max Health."
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Cyclops",
+            "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_Cyclops_ed14de8b.png",
+            "abilityKit": {
+                "basic": {
+                    "name": "Optic Blast",
+                    "levels" : [
+                         "Attack primary target for 300% damage + 50% chance to apply Defense Down.\nIf this character has 1 or more X-MEN allies, always apply Defense Down."
+                    ]
+                },
+                "special": {
+                    "name": "To Me!",
+                    "levels" : [
+                         "Apply Taunt to the 2 most injured non-summoned non-primary target enemies. Call an ally Wolverine to attack the most injured of those previous enemies. Call an ally to attack the second most injured of those previous enemies.\nAttack primary target for 350% damage."
+                    ]
+                },
+                "ultimate": {
+                    "name": "Optic Devastation",
+                    "levels" : [
+                         "Attack all enemies for 250% damage + apply Slow for 2 turns. Damage is increased by 25% per Charged.\nThen lose all Charged."
+                    ]
+                },
+                "passive": {
+                    "name": "Team Synergy",
+                    "levels" : [
+                         "On Turn and on UNCANNY X-Men ally turn, gain +2 Charged, up to a maximum of 20.\nWhen an enemy attacks an ally Phoenix or Dark Phoenix, 50% chance to attack that enemy for 200% damage.  If this character does not attack, call an assist from an ally Wolverine to attack that enemy.  Wolverine gains +80% Damage for the assist.\nOn ally Phoenix death, gain Offense Up + fill an ally Wolverine Speed Bar by 100%."
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Iceman",
+            "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_Iceman_2204cb0a.png",
+            "abilityKit": {
+                "basic": {
+                    "name": "Chilling Blast",
+                    "levels" : [
+                         "Attack primary and adjacent targets for 240% damage + apply Slow.\nGain +1,000% Extra Focus for this action."
+                    ]
+                },
+                "special": {
+                    "name": "Freezing Impact",
+                    "levels" : [
+                         "Attack primary target for 280% damage. If the target has Slow, this attack always Crits + apply Stun."
+                    ]
+                },
+                "ultimate": {
+                    "name": "Ice Slide",
+                    "levels" : [
+                         "Barrier self for 30% of this character's Max Health then attack all enemies for 320% damage + apply +1 Slow to each target."
+                    ]
+                },
+                "passive": {
+                    "name": "Absolute Zero",
+                    "levels" : [
+                         "If this character has 4 or more ASTONISHING X-MEN allies and Health is full at the start of a match, Revive once with 40% of this character's Max Health.\nOn enemy Slow, Barrier self for 5% of this character's Max Health.\nOn enemy turn, 30% chance to attack that enemy for 140% Piercing. If that enemy has Slow, always attack that enemy for 140% Piercing.\nLower Armor by 20% for all enemies with Slow.\nIn RAIDS, Lower Damage by 30% for all enemies with Slow."
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Jubilee",
+            "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_Jubilee_613b5dda.png",
+            "abilityKit": {
+                "basic": {
+                    "name": "Firework Blast",
+                    "levels" : [
+                         "Attack primary target for 290% damage + 70% chance to apply Blind.\nIn RAIDS, always apply Blind."
+                    ]
+                },
+                "special": {
+                    "name": "Plasmoid Party",
+                    "levels" : [
+                         "Apply Offense Up to self all ASTONISHING X-MEN allies.\nAttack primary target for 300% damage.\nGain assist at 50% Damage from all ASTONISHING X-MEN allies.\nGain assist at 50% Damage from 2 random non-summoned, non-ASTONISHING X-MEN allies.\nThis attack is unavoidable and cannot be Blocked.\nOn Kill, spread 3 negative effects from the primary target to all other enemies. This will not spread Stun."
+                    ]
+                },
+                "ultimate": {
+                    "name": "Splitting Atoms",
+                    "levels" : [
+                         "Attack primary target for 400% damage + 50% Piercing + reduce Speed Bar by 25% + apply Stun.\nAttack all other enemies for 200% damage + 50% Piercing.\nApply +1 Slow to all enemies.\nIn RAIDS, apply Offense Down for 2 turns to all enemies."
+                    ]
+                },
+                "passive": {
+                    "name": "Mall Rat",
+                    "levels" : [
+                         "When a ASTONISHING X-MEN ally drops below 50% Health, fill an ally Beast Speed Bar by 30% + generate an Ability Energy for allied Beast.\nOn enemy Death, fill all ASTONISHING X-MEN allies' Speed Bar by 25%.\nOn this character's and each ASTONISHING X-MEN or Wolverine ally's turn, apply Assist Now to either self, Wolverine or a random ASTONISHING X-MEN ally.\nGain +30% Max Health for self and ASTONISHING X-MEN allies.\nIn RAIDS:\n> Gain +20% Speed for self and ASTONISHING X-MEN allies.\n> Gain +40% Damage for self and ASTONISHING X-MEN allies."
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Kitty Pride",
+            "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_KittyPryde_afd8f4cf.png",
+            "abilityKit": {
+                "basic": {
+                    "name": "Shadowcat Strike",
+                    "levels" : [
+                         "Attack primary target for 250% damage + clear 2 positive effects."
+                    ]
+                },
+                "special": {
+                    "name": "Lockheed Blast",
+                    "levels" : [
+                         "Attack all enemies for 280% damage.\nApply Offense Down for 2 turns to all enemies that are not Taunting. Flip Taunt to Defense Down on all Taunting enemies. \nIf any enemy had Taunt, fill this character's Speed Bar by 30%."
+                    ]
+                },
+                "ultimate": {
+                    "name": "Mischievous Sprite",
+                    "levels" : [
+                         "Attack primary and adjacent targets for 320% damage + apply Disrupted. If target is TECH, apply Disrupted for 2 turns, instead.\nThis attack is unavoidable and cannot be blocked."
+                    ]
+                },
+                "passive": {
+                    "name": "Untouchable",
+                    "levels" : [
+                         "Gain +30% Dodge chance.\nWhen this character drops below 50% Max Health, gain Stealth for 2 turns.\nIf Jubilee is an ally, on enemy miss or ASTONISHING X-MEN dodge, Heal the most injured ASTONISHING X-MEN ally for 10% of this character's Max Health.\nIn RAIDS:\n> On Turn, apply Defense Up to the 2 most injured ASTONISHING X-MEN allies or self.\n> On Enemy Turn, apply Evade to the most injured ASTONISHING X-MEN ally or self."
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Phoenix",
+            "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_Phoenix_d05c646c.png",
+            "abilityKit": {
+                "basic": {
+                    "name": "Psychic Blast",
+                    "levels" : [
+                         "Attack primary target for 250% damage + clear 2 positive effects."
+                    ]
+                },
+                "special": {
+                    "name": "Bestow Light",
+                    "levels" : [
+                         "Apply Stealth to all allies for 2 turns. Apply Defense Up to all allies.\nRedistribute 25% of Max Health from self to all allies. All allies receive an additional 10,000 Health. This bypasses Heal Block.\nTransfer all negative effects from allies to self.\nIf there are no allies, attack self for 5,000% Piercing damage.\nIf Phoenix dies, her Passive Ability is triggered."
+                    ]
+                },
+                "ultimate": {
+                    "name": "Phoenix Force",
+                    "levels" : [
+                         "Attack primary target for 400% damage + clear all positive effects.\nGain +50,000% Extra Focus for this attack."
+                    ]
+                },
+                "passive": {
+                    "name": "Phoenix Rising",
+                    "levels" : [
+                         "On Death, summon Dark Phoenix.\nPhoenix cannot be revived.\nOn ally Taunt, gain Taunt. If Beast is an ally, gain Taunt for 2 turns instead.\nGain +30% Damage. UNCANNY X-Men allies gain +30% Damage.\nGain +30% Max Health. UNCANNY X-Men allies gain +30% Max Health."
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Psylocke",
+            "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_Psylocke_ba06c3a6.png",
+            "abilityKit": {
+                "basic": {
+                    "name": "Psi Knife",
+                    "levels" : [
+                         "Attack primary target for 270% Piercing damage."
+                    ]
+                },
+                "special": {
+                    "name": "Telekinetic Armament",
+                    "levels" : [
+                         "Attack primary target for 200% Piercing damage. Chain to 3 adjacent targets for 200% Piercing damage. Clear 2 positive effects from each target.\nCounterattack breaks this Chain."
+                    ]
+                },
+                "ultimate": {
+                    "name": "Astral Butterflies",
+                    "levels" : [
+                         "Transfer 2 negative effects from each ally to primary target. Transfer all negative effects from self and X-MEN allies to primary target.\nAttack primary target for 300% Piercing damage.\nThis attack cannot miss."
+                    ]
+                },
+                "passive": {
+                    "name": "Reinvigorate",
+                    "levels" : [
+                         "On Spawn, gain Evade + Counter. When this character or an UNCANNY X-MEN ally drops below 50% Max Health, apply Evade + Counter to them.\nGain +1,000% Resistance against Disrupted."
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Storm",
+            "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_Storm_8616f751.png",
+            "abilityKit": {
+                "basic": {
+                    "name": "Shocking Blow",
+                    "levels" : [
+                         "Attack primary target for 200% damage. If Charged, in addition, attack adjacent targets for 150% damage.\nIf Beast is an ally, gain +2 Charged, otherwise gain +1 Charged, up to a maximum of 20."
+                    ]
+                },
+                "special": {
+                    "name": "Ice Storm",
+                    "levels" : [
+                         "Attack all targets for 180% damage + 50% chance to apply Slow to each target.\nIf Charged, chance to apply Slow is increased by +25% per Charged. Additionally, 10% chance to apply Stun to each target, and chance to apply is increased by +10% per Charged. Then lose Charged.\nIf Beast is an ally, 50% chance to keep Charged.\nThis attack has +100% Extra Focus and cannot be Dodged."
+                    ]
+                },
+                "ultimate": {
+                    "name": "Storm of the Century",
+                    "levels" : [
+                         "Attack all targets for 110% damage. Damage is increased by 100% per Charged.\nThen lose Charged."
+                    ]
+                },
+                "passive": {
+                    "name": "Ride the Wind",
+                    "levels" : [
+                         "On Turn, 50% chance to apply Speed Up to X-MEN and X-FORCE allies.\n50% chance to grant Assist Now to self or a random X-MEN or X-FORCE ally on each X-MEN or X-FORCE ally's turn."
+                    ]
+                }
+            }
+        },
+        {
+            "name": "Wolverine",
+            "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_Wolverine_ee1eea4b.png",
+            "abilityKit": {
+                "basic": {
+                    "name": "Adamantium Claws",
+                    "levels" : [
+                         "Attack primary target for 240% Piercing + apply Bleed on Crit."
+                    ]
+                },
+                "special": {
+                    "name": "Slice and Dice",
+                    "levels" : [
+                         "Attack primary target for 150% Piercing + apply Bleed on Crit. Chain to 4 targets for 120% Piercing + apply Bleed on Crit.\nIf Phoenix is an ally, the primary target takes 350% Piercing instead.\nIf this character has 1 or more X-MEN allies, all secondary attacks have 100% chance to Crit.\nCounterattack breaks this Chain.\nIf this character has 1 or more X-MEN allies, this attack cannot be counterattacked."
+                    ]
+                },
+                "ultimate": {
+                    "name": "Primal Berserker",
+                    "levels" : [
+                         "Attack primary target for 700% Piercing damage. If Colossus is an ally, attack primary target for 800% Piercing damage instead.\nOn Crit, apply Bleed.\nIf this character's Max Health is below 50%:\n> Gain Offense Up for 2 turns\n> This attack is Unavoidable"
+                    ]
+                },
+                "passive": {
+                    "name": "Healing Factor",
+                    "levels" : [
+                         "On Turn, Heal for 20% of this character's Max Health.\nOn Death, 5% chance to Revive with 20% of this character's Max Health. If at least one ally is X-MEN, gain an additional 5% chance to Revive.\nGain +5% Speed per UNCANNY X-MEN ally. This is applied after any character has taken an action"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "X-23",
+            "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_X23_d15b6740.png",
+            "abilityKit": {
+                "basic": {
+                    "name": "Snikt!",
+                    "levels" : [
+                         "Attack primary target for 250% Piercing. Gain Evade."
+                    ]
+                },
+                "special": {
+                    "name": "Relentless Assault",
+                    "levels" : [
+                         "Attack primary target for 300% Piercing + apply Ability Block. If blocked or dodged, Gain bonus attack for 350% Piercing. Apply +1 Ability Block, up to a maximum of 3.\nBonus attack is Unavoidable.\nIn WAR, bonus attack gains +10,000% Extra Focus."
+                    ]
+                },
+                "ultimate": {
+                    "name": "Feral Rage",
+                    "levels" : [
+                         "Attack the most injured, non-summoned target for 140% Piercing, ignoring Taunt and Stealth + flip Stealth on that target.\nRepeat this attack 4 additional times.\nIf X-23 finishes the last non-summoned enemy, repeat this full attack against the most injured summoned targets."
+                    ]
+                },
+                "passive": {
+                    "name": "Mutant Weapon",
+                    "levels" : [
+                         "On Turn, Heal for 10% of this character's Max Health.\nWhen an enemy drops below 50% Health, fill Speed Bar by 40%. When this character's Health drops below 50%, gain 2 Evade.\nGain +60% Focus. X-FORCE allies and Wolverine gain +60% Focus.\nOn WAR OFFENSE:\n> Gain an additional +80% Focus.\n> X-FORCE allies gain an additional +80% Focus."
+                    ]
+                }
+            }
+        }
+    ]
+}  

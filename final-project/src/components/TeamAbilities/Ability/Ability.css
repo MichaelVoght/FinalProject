@@ -1,0 +1,12 @@
+.ability {
+  color: #ccc;
+}
+
+.ability .type {
+  font-weight: bold;
+  color: #f4b834;
+}
+
+.ability .content {
+  font-size: x-small;
+}

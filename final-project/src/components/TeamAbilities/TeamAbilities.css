@@ -1,0 +1,14 @@
+.abilities {
+  margin-top: 1em;
+  width: 110%;
+  max-width: 110%;
+}
+
+.abilities .kit {
+  border: 0.25em solid #f4b834;
+  border-radius: 0.5em;
+  margin-left: -4%;
+  margin-right: 5%;
+  flex: 0 0 19%;
+  max-width: 20%;
+}
